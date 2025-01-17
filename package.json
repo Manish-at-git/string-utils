@@ -1,0 +1,15 @@
+{
+  "name": "string-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+ "description": "A library for string manipulation.",
+ "keywords": ["string", "manipulation", "library"],
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
